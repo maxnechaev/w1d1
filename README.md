@@ -1,2 +1,2 @@
-# w1d1
+# w1d2
 Lighthouse w1d2 folder
